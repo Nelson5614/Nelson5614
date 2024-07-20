@@ -7,16 +7,12 @@ If you decide to work with me I promise to deliver nothing but the best of work,
 My skills include but are not limited to the following tech stacks :
 ✔HTML
 ✔CSS 
-✔Javascript 
+✔Livewire 
 ✔PHP
 ✔MySQL
 ✔Laravel framework
-✔Vue js
-✔Inertia JS
 ✔APIs
-✔WordPress and other CMS
-✔Python 
-✔Scripting and Automation 
+
 
 Do sent a text to discuss how I can help you and your business. I can also set aside time for a quick call should that interest you.
 
